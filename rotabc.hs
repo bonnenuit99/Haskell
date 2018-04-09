@@ -18,6 +18,7 @@ rotabc :: [Char] -> [Char]
 -}
 
 
+
 rotabc :: [Char] -> [Char]
 
 rotabc [] = []
